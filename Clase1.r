@@ -1,0 +1,27 @@
+a=5
+b=4
+c=a+b
+d='hola'
+k=a+d
+j=8
+as.character(j)
+m=as.character(j)
+class(m)
+x=4
+y=2
+x+y
+x-y
+x*y
+x/y
+x%%y
+x^y
+x==y
+x>y
+x<y
+x>=y
+x<=y
+x!=y
+pi
+sqrt(x)
+abs(x)
+paste(x, y, ..., sep=s)
